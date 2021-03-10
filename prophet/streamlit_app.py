@@ -1,3 +1,7 @@
+# TODO: Find a way to still introduce streamlit in case there's anything that
+# having streamlit imported changes. As far as I know, there's no good way to
+# run streamlit in a headless mode.
+
 import pandas as pd
 from fbprophet import Prophet
 import time
